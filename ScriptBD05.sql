@@ -1,0 +1,4 @@
+USE Actividad37
+GO
+
+SELECT * FROM T_TURNOS

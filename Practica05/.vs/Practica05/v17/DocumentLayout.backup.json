@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|c:\\users\\tobias zair\\desktop\\practica05\\practica05\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|c:\\users\\tobias zair\\desktop\\practica05\\practica05\\practica04.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|solutionrelative:practica04.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|c:\\users\\tobias zair\\desktop\\practica05\\practica05\\data\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|solutionrelative:data\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|c:\\users\\tobias zair\\desktop\\practica05\\practica05\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C41E88-0990-45C8-B8B9-D96397C1F9A5}|Practica05.csproj|solutionrelative:controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T23:02:37.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practica04.http",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\Practica04.http",
+              "RelativeDocumentMoniker": "Practica04.http",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\Practica04.http",
+              "RelativeToolTip": "Practica04.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-08T22:53:01.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\Data\\Services\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\Data\\Services\\TurnoService.cs",
+              "RelativeToolTip": "Data\\Services\\TurnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:51:41.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica05\\Practica05\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwFAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:50:24.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
